@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.vercel
+.DS_Store
+
+# ห้าม commit ค่าลับ
+.env
+.env.local
+.env*.local
